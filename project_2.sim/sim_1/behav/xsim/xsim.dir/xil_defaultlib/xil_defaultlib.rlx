@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Jayanth MN/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Jayanth MN/project_2/project_2.srcs/sources_1/new/bpsk.v,1689788477,verilog,,,,bpsk1,,,,,,,,
+C:/Users/Jayanth MN/project_2/project_2.srcs/sources_1/new/bpskdemodul.v,1689875736,verilog,,C:/Users/Jayanth MN/project_2/project_2.srcs/sources_1/new/bpskmodul.v,,BPSK_Demodulator_Baseband1,,,,,,,,
+C:/Users/Jayanth MN/project_2/project_2.srcs/sources_1/new/bpskmodul.v,1689875472,verilog,,C:/Users/Jayanth MN/project_2/project_2.srcs/sources_1/new/bpsk.v,,BPSK_Modulator_Baseband1,,,,,,,,
